@@ -1,6 +1,5 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
 ---
 
 Into the spiderverse was so good though
