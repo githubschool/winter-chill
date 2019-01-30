@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+--add new ski caption
 
-![jetpacktocat](https://octodex.github.com/images/jetpacktocat.png)
+![jetpacktocat](https://octodex.github.com/images/snowtocat_final.jpg)
 {: .center}
