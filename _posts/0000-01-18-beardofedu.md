@@ -3,7 +3,7 @@ layout: slide
 title: "Welcome to our slide deck!"
 ---
 
-Not warm enough for DC
+Into the spiderverse was so good though
 
-![saritocat](https://octodex.github.com/images/saritocat.png)
+![spidertocat](https://octodex.github.com/images/spidertocat.png)
 {: .center}
