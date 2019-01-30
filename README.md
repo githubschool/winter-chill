@@ -1,5 +1,5 @@
 # GitHub for Developers
-- Capybara
+- KeeKee Capybara & Snoopy
 - Class Date: Jan 30 - 31, 2019
 - Facilitator: @beardofedu
 
