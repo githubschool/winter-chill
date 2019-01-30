@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Jim's Contribution"
 ---
 
-Caption here
+Eight Arms?  Eight-Track!
 
 ![catstello](https://octodex.github.com/images/catstello.png)
 {: .center}
