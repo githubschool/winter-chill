@@ -1,6 +1,6 @@
 ---
 layout: slide
-title: "beard's change"
+title: "beard's change on the remote"
 ---
 
 Into the spiderverse was so good though
