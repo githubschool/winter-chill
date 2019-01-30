@@ -1,5 +1,6 @@
 ---
 layout: slide
+title: "beard's change"
 ---
 
 Into the spiderverse was so good though
