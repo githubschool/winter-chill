@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "beard's change on the remote"
 ---
 
-I'm a change
+Into the spiderverse was so good though
 
-![saritocat](https://octodex.github.com/images/saritocat.png)
+![spidertocat](https://octodex.github.com/images/spidertocat.png)
 {: .center}
