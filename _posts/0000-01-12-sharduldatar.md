@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Git trained"
 ---
 
-Caption here
+Triptofam!!
 
 ![poptocat2](https://octodex.github.com/images/poptocat_v2.png)
 {: .center}
